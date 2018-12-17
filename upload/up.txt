@@ -1,0 +1,25 @@
+Q1)which of these is capital of India?
+India,
+delhi,
+pakistan,
+kanpur.
+Q2)which of these is national animal of India?
+Lion,
+tiger,
+peacock,
+Cow.
+Q3)which of these is national bird of India?
+peacock,
+cuckoo,
+eagle,
+Vulture.
+Q4)which is national language of India?
+Hindi,
+english,
+marathi,
+tamil.
+Q5)which is national sport of India?
+hockey,
+cricket,
+kho-kho,
+football.
