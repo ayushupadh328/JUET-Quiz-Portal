@@ -1,8 +1,6 @@
 # JUET-Quiz-Portal : Web based project
-The Project is based on HTML, CSS, Bootstrap, JS, PHP and MySQL.
-
-For Front end- HTML, CSS, Bootstrap, JS.
-
+The Project is based on HTML, CSS, Bootstrap, JS, PHP and MySQL.  
+For Front end- HTML, CSS, Bootstrap, JS.  
 For Back end- PHP and MySQL.
 
 ## To view the project
@@ -23,12 +21,12 @@ An efficient manner and no wastage of time for checking the quiz submitted by th
     ```
 3. After installing the software, copy the folder in XAMPP/htdocs folder in C drive.
 4. Run the XAMPP software and start the **Apache and MySQL**.
-5. Open localhost and click **phpMyAdmin** and make Database and Database table as mentioned in **REPORT** named file, page no. 36.
-    Like:- 
+5. Open localhost and click **phpMyAdmin** and make Database and Database table as mentioned in **REPORT** named file, page no. 36.  
+   Like:- 
       Type localhost in URL --> ``` localhost ```
       Click on **phpMyAdmin** .
-6. Open the Web browser and type **loclhost** and open the folder by typing folder name in  URL.
-    Like:-
+6. Open the Web browser and type **loclhost** and open the folder by typing folder name in  URL.  
+   Like:-
       ```
       localhost/foldername/
       ```    
@@ -43,31 +41,31 @@ An efficient manner and no wastage of time for checking the quiz submitted by th
 
 
 ## Screenshots
-1. Student Login Page
+1. Student Login Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/student%20login%20page.png" />
 
-2. Student Register Page
+2. Student Register Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/register%20page.png" />
 
-3. Admin Login Page
+3. Admin Login Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin.png" />
 
-4. Admin Option Page
+4. Admin Option Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20page.png" />
         
-5. Admin Create Quiz Page
+5. Admin Create Quiz Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20quiz%20create%20page.png" />
        
-6. Student Quiz Question Page
+6. Student Quiz Question Page  
 
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/question%20page.png" />
 
-7. Forgot Password Page
+7. Forgot Password Page  
 
        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/forgot%20password%20page.png" />
 
