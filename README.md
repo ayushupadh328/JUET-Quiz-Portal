@@ -1,5 +1,6 @@
 # JUET-Quiz-Portal : Web based project
-The Project is based on HTML, CSS, Bootstrap, JS for Front-end PHP and MySQL for Back-end.  
+The Project is based on HTML, CSS, Bootstrap, JS for Front-end PHP and MySQL for Back-end.    
+
 A Web Quiz Portal is a online platform for conducting Quizzes. An efficient manner and no wastage of time for checking the quiz submitted by the Students. Saves a lot of time, paper and efforts.
 
 ## To view the project
@@ -20,14 +21,14 @@ A Web Quiz Portal is a online platform for conducting Quizzes. An efficient mann
    Like:-   
       Type localhost in URL --> ``` localhost ```  
       Click on **phpMyAdmin** .
-6. Open the Web browser and type **loclhost** and open the folder by typing folder name in  URL.  
+6. Open the Web browser and type **localhost** and open the folder by typing folder name in  URL.  
    Like:-
       ```
       localhost/foldername/
       ```    
       
       
-## Feature
+## Features
 * Student can only register himself with providing only right details.
 * Only registered Students and Admin can login into the portal.
 * Uploading the Ques/Ans for the Quiz through a Text File(.txt) only which is easier than Excel File(.csv).
@@ -37,35 +38,27 @@ A Web Quiz Portal is a online platform for conducting Quizzes. An efficient mann
 
 ## Screenshots
 1. Student Login Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/student%20login%20page.png" />
 
 2. Student Register Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/register%20page.png" />
 
 3. Admin Login Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin.png" />
 
 4. Admin Option Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20page.png" />
         
 5. Admin Create Quiz Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20quiz%20create%20page.png" />
        
 6. Student Quiz Question Page  
-
         <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/question%20page.png" />
 
 7. Forgot Password Page  
-
        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/forgot%20password%20page.png" />
-
-
-
+       
+       
 ## Updation
 * Hosting Multiple Quizzes at a time.
 * UI update for Quiz Questions.
