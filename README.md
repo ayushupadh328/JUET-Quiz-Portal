@@ -41,20 +41,26 @@ An efficient manner and no wastage of time for checking the quiz submitted by th
 
 
 ## Screenshots
-*   1
-        <img src="https://github.com/sumiie24/Portfolio/blob/master/ui%20images/home.png" />
+*   1. Student Login Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/student%20login%20page.png" />
 
-*   2
-        <img src="https://github.com/sumiie24/Portfolio/blob/master/ui%20images/aboutme.png" />
+*   2. Student Register Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/register%20page.png" />
 
-*   3
-        <img src="https://github.com/sumiie24/Portfolio/blob/master/ui%20images/projects.png" />
+*   3. Admin Login Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin.png" />
 
-*   4
-        <img src="https://github.com/sumiie24/Portfolio/blob/master/ui%20images/contact.png" />
+*   4. Admin Option Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20page.png" />
         
-*   5
-        <img src="https://github.com/sumiie24/Portfolio/blob/master/ui%20images/me.png" />
+*   5. Admin Create Quiz Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/admin%20quiz%20create%20page.png" />
+       
+*   6. Student Quiz Question Page
+        <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/question%20page.png" />
+
+*   7. Forgot Password Page
+       <img src="https://github.com/sumiie24/JUET-Quiz-Portal/blob/master/screenshots/forgot%20password%20page.png" />
 
 
 
