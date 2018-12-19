@@ -1,5 +1,5 @@
 # JUET-Quiz-Portal : Web based project
-The Project is based on HTML, CSS, Bootstrap, JS for Front-end PHP and MySQL for Back-end.    
+The Project is based on HTML, CSS, Bootstrap, JS for **Front-end**, PHP and MySQL for **Back-end**.    
 
 A Web Quiz Portal is a online platform for conducting Quizzes. An efficient manner and no wastage of time for checking the quiz submitted by the Students. Saves a lot of time, paper and efforts.
 
@@ -19,8 +19,8 @@ A Web Quiz Portal is a online platform for conducting Quizzes. An efficient mann
 4. Run the XAMPP software and start the **Apache and MySQL**.
 5. Open localhost and click **phpMyAdmin** and make Database and Database table as mentioned in **REPORT** named file, page no. 36.  
    Like:-   
-      Type localhost in URL --> ``` localhost ```  
-      Click on **phpMyAdmin** .
+       Type localhost in URL --> ``` localhost ```  
+       Click on **phpMyAdmin** .
 6. Open the Web browser and type **localhost** and open the folder by typing folder name in  URL.  
    Like:-
       ```
